@@ -1,6 +1,8 @@
 ## OLá, eu sou a Camila.
 
-. 👩🏻‍💻 Estudant  de Frontend
+. 👩🏻‍💻 Estudante de Frontend
+
+##
 
 <div>
   <a href="https://github.com/camila-bueno”>
